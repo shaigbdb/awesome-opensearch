@@ -70,7 +70,8 @@ Please star the repo and contribute if you have any brilliant additions. 🙏
   * [Ultrawarm Storage](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/ultrawarm.html)
   * [Index State Management](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/ism.html) - Covers some Managed-only features
   * [Supported Operations](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/supported-operations.html)
-
+  * [Service Quotas](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/limits.html) - including network quotas for payload size.
+    
 ## 😊 Managed Services
 * [AWS Opensearch Service](https://aws.amazon.com/opensearch-service/)
   * [Service Pricing](https://aws.amazon.com/opensearch-service/pricing/)
